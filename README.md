@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi! I'm Patrick!
+# A developer from the United States!
 
+- 🔭 I’m currently working on [floptropicatimezone](https://github.com/patrickv0220/floptropicatimezone)
+
+- 📫 How to reach me: **patrickvalle897@gmail.com**
+
+- 😄 Pronouns: He/Him/His
+
+- ⚡ Fun fact: I'm Christian! I'm also Brazilian and Puerto Rican (american too)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickv0220&show_icons=true&locale=en&layout=compact" alt="patrickv0220" /></hp>
 <!--
 **patrickv0220/patrickv0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
