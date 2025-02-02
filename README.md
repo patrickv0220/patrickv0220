@@ -1,9 +1,7 @@
 # Hi! I'm Patrick!
 # A developer from the United States!
 
-- 🔭 I’m currently working on [floptropicatimezone](https://github.com/patrickv0220/floptropicatimezone)
-
-- 📫 How to reach me: **patrickvalle897@gmail.com**
+- 🔭 I’m currently working on **[floptropicatimezone](https://github.com/patrickv0220/floptropicatimezone)**
 
 - 😄 Pronouns: He/Him/His
 
