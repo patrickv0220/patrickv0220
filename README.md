@@ -1,5 +1,5 @@
-# Hi! I'm Patrick!
-# A developer from the United States!
+<h1 align="center">Hi I'm Patrick!</h1>
+<h3 align="center">A developer from the United States!</h3>
 
 - 🔭 I’m currently working on **[floptropicatimezone](https://github.com/patrickv0220/floptropicatimezone)**
 
