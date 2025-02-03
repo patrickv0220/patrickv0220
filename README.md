@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact: I'm Christian! I'm also Brazilian and Puerto Rican (american too)
 
+[![patrickv0220's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickv0220&show_icons=true&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickv0220&show_icons=true&locale=en&layout=compact" alt="patrickv0220" /></hp>
 <!--
 **patrickv0220/patrickv0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
