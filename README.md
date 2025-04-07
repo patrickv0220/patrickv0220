@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **[floptropicatimezone](https://github.com/patrickv0220/floptropicatimezone)**
 
 - ❤️ I'm a translator for **[Sonolus](https://sonolus.com)**!
-- 
+  
 - 😄 Pronouns: He/Him/His
 
 - ⚡ Fun fact: I'm Christian! I'm also Brazilian and Puerto Rican (american too)
