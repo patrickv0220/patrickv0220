@@ -2,6 +2,7 @@
 <h3 align="center">A developer from the United States!</h3>
 
 - ❤️ I'm a translator for **[Sonolus](https://sonolus.com)**!
+ <small>i translate words to Portuguese!</small>
   
 - 😄 Pronouns: He/Him/His
 
