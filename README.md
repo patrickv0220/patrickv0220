@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Patrick!</h1>
 <h3 align="center">A developer from the United States!</h3>
+<p align="center"><a href="./README_pt-br.md">Português (Brazil)</a>&nbsp; **<a href="./README.md">English</a>**</p>
 
 - ❤️ I'm a translator for **[Sonolus](https://sonolus.com)**!
 - i translate words to portuguese!
