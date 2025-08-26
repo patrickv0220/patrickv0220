@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://discord.com/users/774692916215676948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pat1281" height="30" width="40" /></a>
 </p>
+
 Don't mind of how it's a C, I don't really use GitHub often but I use it a lot.
 [![patrickv0220's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickv0220&show_icons=true&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats-mgfj.vercel.app/?user=patrickv0220&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5&2)](https://git.io/streak-stats)
